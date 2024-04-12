@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/red"
+        android:icon="@drawable/icon_cat"
+        android:iconTint="#F44336"
+        android:iconTintMode="src_in"
+        android:title="@string/red" />
+    <item
+        android:id="@+id/yellow"
+        android:icon="@drawable/icon_cat"
+        android:iconTint="#FFEB3B"
+        android:iconTintMode="src_in"
+        android:title="@string/yellow" />
+    <item
+        android:id="@+id/green"
+        android:icon="@drawable/icon_cat"
+        android:iconTint="#4CAF50"
+        android:iconTintMode="src_in"
+        android:title="@string/green" />
+</menu>
